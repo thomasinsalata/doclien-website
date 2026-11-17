@@ -1,0 +1,7 @@
+/login    https://app.doclien.com    301!
+/signin   https://app.doclien.com    301!
+/app      https://app.doclien.com    301!
+/contact  /request-access    301!
+/platform /#platform    301!
+/how-it-works /#how-it-works    301!
+/index.html  /    301!

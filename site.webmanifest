@@ -1,0 +1,11 @@
+{
+  "name": "DocLien",
+  "short_name": "DocLien",
+  "icons": [
+    { "src": "/favicon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/favicon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#0F766E",
+  "background_color": "#F7FAF9",
+  "display": "standalone"
+}
